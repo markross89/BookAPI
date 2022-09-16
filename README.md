@@ -9,7 +9,3 @@ Spring, Spring MVC, dependency injection
 Project made for java course at coderslab.
 
 ---
-
-## Licence & copyrights
-
-© Marek Roszak
